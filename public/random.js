@@ -1,4 +1,5 @@
-var pages = [ 
+/* random */
+var pages = [
     "https://euizhltcd6ih.com/j430q0q9v?key=1ca12afba1ffa31c0cbf971b78e06f7b",
     "https://jc32arlvqpv8.com/wmbh1ee0r?key=09d2bbf0c9678ba48f0526c2e11b464c",
     "https://www.trustedcpmrevenue.com/vetxzi7f?key=b4f78df472659153a5792364ea8e96a8",
@@ -14,9 +15,10 @@ var pages = [
     "https://bonepa.com/c49187b39f/403fc795f5/?placementName=default",
     "https://qoaaa.com/bb0ede6ad4/0c81745787/?placementName=default",
     "https://vdbaa.com/fullpage.php?section=General&pub=745199&ga=g",
-    "https://xvaaa.com/fullpage.php?section=General&pub=745199&ga=a",  
-]; 
-function randomPage() { 
-return pages[Math.round(Math.random() * (pages.length - 1))]; 
-} 
-location.href= randomPage(); 
+    "https://xvaaa.com/fullpage.php?section=General&pub=745199&ga=a",
+];
+
+function randomPage() {
+    return pages[Math.round(Math.random() * (pages.length - 1))];
+}
+location.href = randomPage();
