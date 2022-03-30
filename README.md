@@ -1,1 +1,1 @@
-# whatsapp50gb
+# whatsapp-50gb
