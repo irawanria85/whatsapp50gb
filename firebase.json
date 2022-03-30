@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "whatsapp-50gb",
+    "site": "whatsapps50gb",
     "public": "public",
     "ignore": [
       "firebase.json",
