@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "whatsapp50gb",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
